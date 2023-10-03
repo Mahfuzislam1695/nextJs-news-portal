@@ -9,7 +9,6 @@ import {
 import Link from "next/link";
 
 const AllNews = ({ allNews }) => {
-    console.log("allNews", allNews);
     const { Meta } = Card;
     return (
         <>
